@@ -1,4 +1,4 @@
-# TLSA Engine (Visual Basic 6)
+# TLSA Engine (Visual Basic 6.0)
 #### My last version of TLSA Engine developed in Visual Basic 6.0 with dx_lib32 2.1 at mid 2010, a custom 2D cinematic platform engine. Include SDK tools and some test projects.
 
 ![tlsaengine_vb6_editor01.jpg](https://i0.wp.com/portfolio.visualstudioex3.com/wp-content/uploads/2010/05/tlsaengine_vb6_editor01.jpg)
@@ -31,6 +31,7 @@ This game engine is not finished, because the complexity to develop a project as
 * TLSA Engine: http://portfolio.visualstudioex3.com/2010/07/30/tlsa-engine-vb6/
 * Marius Watz Java implementation for 2D line intersection function: http://workshop.evolutionzone.com/2007/09/10/code-2d-line-intersection/
 
+#### Captures:
 ![tlsaengine_01.jpg](https://i0.wp.com/portfolio.visualstudioex3.com/wp-content/uploads/2010/05/tlsaengine_01.jpg?w=414&ssl=1) ![tlsaengine_02.jpg](https://i0.wp.com/portfolio.visualstudioex3.com/wp-content/uploads/2010/05/tlsaengine_02.jpg?w=414&ssl=1)
 ![tlsaengine_03.jpg](https://i2.wp.com/portfolio.visualstudioex3.com/wp-content/uploads/2010/05/tlsaengine_03.jpg?w=414&ssl=1) ![tlsaengine__vb6_colidetest_00.png](https://i2.wp.com/portfolio.visualstudioex3.com/wp-content/uploads/2010/05/tlsaengine__vb6_colidetest_00.png?w=414&ssl=1)
 ![tlsaengine_vb6_editor00.jpg](https://i2.wp.com/portfolio.visualstudioex3.com/wp-content/uploads/2010/05/tlsaengine_vb6_editor00.jpg?w=414&ssl=1) ![tlsaengine_vb6_editor03.jpg](https://i1.wp.com/portfolio.visualstudioex3.com/wp-content/uploads/2010/05/tlsaengine_vb6_editor03.jpg?w=414&ssl=1)
