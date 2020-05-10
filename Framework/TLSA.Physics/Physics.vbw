@@ -1,0 +1,12 @@
+modPhysics = 450, 533, 954, 760, C
+Manager = 204, 302, 1213, 731, C
+ColliderList = 303, 306, 807, 533, C
+Collider = 504, 313, 1008, 540, C
+Body = 329, 218, 658, 436, C
+BodyList = 6, 27, 817, 625, C
+Simulator = 165, 71, 768, 404, C
+Ray = 329, 0, 658, 218, C
+Explosion = 88, 116, 921, 591, C
+ParticleEmitter = 154, 154, 985, 626, C
+Helper = 0, 0, 0, 0, C
+SimulatorMonitor = 264, 264, 961, 853, C

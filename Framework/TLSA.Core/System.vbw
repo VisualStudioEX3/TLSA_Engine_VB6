@@ -1,0 +1,15 @@
+IO = 110, 145, 896, 743, Z
+modSystem = 154, 203, 940, 801, C
+Generics = 44, 44, 745, 633, C
+Math = 176, 176, 943, 650, 
+Base = 220, 220, 921, 807, C
+Timer = 110, 110, 941, 582, C
+INIFile = 154, 203, 1410, 858, C
+Information = 110, 110, 811, 697, C
+HighResolutionTimer = 22, 22, 787, 611, C
+Random = 220, 220, 985, 809, C
+OpenDialog = 0, 0, 0, 0, C
+SaveDialog = 198, 198, 899, 787, C
+BrowseDialog = 0, 0, 0, 0, C
+TimerEvent = 125, 125, 1234, 772, C
+Text = 220, 220, 983, 692, C

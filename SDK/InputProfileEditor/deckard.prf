@@ -1,0 +1,5 @@
+// TLSA.Gameinput Profile
+username=Deckard
+// Action=KeybMouse;Joy
+jump=Key_Space;Joy_Button3
+shoot=Mouse_Left;Joy_Button8

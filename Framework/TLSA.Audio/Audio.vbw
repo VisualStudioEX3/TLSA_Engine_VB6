@@ -1,0 +1,15 @@
+Manager = 88, 116, 798, 406, C
+modAudio = 110, 145, 820, 435, C
+SoundSample = 0, 0, 710, 290, C
+MusicSample = 22, 29, 732, 319, C
+SoundChannel = 1, 0, 711, 616, C
+SoundMixer = 44, 58, 874, 533, C
+VolumeControl = 88, 116, 918, 591, C
+SoundSampleList = 66, 87, 896, 562, C
+AudioPhysicEngine = 154, 154, 855, 741, C
+AudioPhysicEmitter = 220, 220, 921, 807, C
+MusicSampleList = 110, 110, 811, 697, C
+MusicMixer = 22, 22, 723, 609, C
+AudioPhysicEmitterList = 0, 0, 701, 589, C
+AudioPhysicEffectRegionList = 0, 0, 701, 587, C
+AudioPhysicEffectRegion = 22, 22, 723, 873, C

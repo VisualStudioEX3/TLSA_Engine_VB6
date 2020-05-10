@@ -1,0 +1,3 @@
+shoot;60;true|shoot_00;shoot_01;shoot_02;shoot_03;shoot_04
+standby;100;true|standby_00;standby_01;standby_02;standby_03;standby_04
+run;60;true|run_00;run_01;run_02;run_03;run_04;run_05

@@ -1,0 +1,2 @@
+XInput wrapper for Game Maker by yellowsix (http://gmc.yoyogames.com/lofiversion/index.php/t360286.html)
+Adapted to be compatible with Visual Basic 6.0.

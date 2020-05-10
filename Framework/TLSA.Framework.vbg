@@ -1,0 +1,6 @@
+VBGROUP 5.0
+StartupProject=TLSA.Audio\Audio.vbp
+Project=TLSA.Graphics\Graphics.vbp
+Project=TLSA.Physics\Physics.vbp
+Project=TLSA.Core\Core.vbp
+Project=TLSA.GameInput\GameInput.vbp

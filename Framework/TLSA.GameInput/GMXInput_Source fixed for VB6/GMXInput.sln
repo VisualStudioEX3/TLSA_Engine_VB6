@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GMXInput", "GMXInput\GMXInput.vcproj", "{DA5AEDD9-EA91-49BD-AED6-22711E8250D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5AEDD9-EA91-49BD-AED6-22711E8250D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA5AEDD9-EA91-49BD-AED6-22711E8250D7}.Debug|Win32.Build.0 = Debug|Win32
+		{DA5AEDD9-EA91-49BD-AED6-22711E8250D7}.Release|Win32.ActiveCfg = Release|Win32
+		{DA5AEDD9-EA91-49BD-AED6-22711E8250D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

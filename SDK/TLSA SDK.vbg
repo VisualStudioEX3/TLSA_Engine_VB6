@@ -1,0 +1,9 @@
+VBGROUP 5.0
+StartupProject=..\Framework\TLSA.Audio\Audio.vbp
+Project=..\Framework\TLSA.Graphics\Graphics.vbp
+Project=..\Framework\TLSA.Physics\Physics.vbp
+Project=..\Framework\TLSA.System\System.vbp
+Project=FontDefEditor\FontDefEditor.vbp
+Project=TileEditor\TileEditor.vbp
+Project=..\Engine\TLSA.vbp
+Project=InputProfileEditor\InputProfileEditor.vbp

@@ -1,0 +1,26 @@
+Music tracks royalty-free from Incompetech.com (replacing the original music files).
+
+Black Vortex.mp3: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300037
+The Complex.mp3: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300025
+
+Black Vortex and The Complex, by Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+
+Sounds royalty-free from Freesound (replacing the orginal project sound files).
+
+fx1.wav (UI_3-3 FHSandal sinus(Sytrus,arpegio,multiprocessing,rsmpl).wav)
+newlocknew
+Attribution 3.0 Unported (CC BY 3.0)
+https://freesound.org/people/newlocknew/sounds/517379/
+
+fx2.wav (08421 Trailer Hit - double curse.wav)
+Robinhood76
+Attribution-NonCommercial 3.0, Unported (CC BY-NC 3.0)
+https://freesound.org/people/Robinhood76/sounds/517213/
+
+fx3.wav (08687 shine magic stinger.wav)
+Robinhood76
+Attribution-NonCommercial 3.0, Unported (CC BY-NC 3.0)
+https://freesound.org/people/Robinhood76/sounds/516854/

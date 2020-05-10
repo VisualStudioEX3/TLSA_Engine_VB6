@@ -1,0 +1,22 @@
+// TLSA.Gameinput Profile
+username=dev
+// Action=KeybMouse;Joy
+left=Key_Left;Joy_None
+right=Key_Right;Joy_None
+up=Key_Up;Joy_None
+down=Key_Down;Joy_None
+left_hit=Key_A;Joy_None
+right_hit=Key_D;Joy_None
+up_hit=Key_W;Joy_None
+down_hit=Key_S;Joy_None
+fps_hit=Key_F;Joy_None
+fx1_hit=Key_F1;Joy_None
+physic_switch=Key_P;Joy_None
+edit_set=Mouse_Left;Joy_None
+edit_rem=Mouse_Right;Joy_None
+room_move_left=Key_Numpad4;Joy_None
+room_move_right=Key_Numpad6;Joy_None
+room_move_up=Key_Numpad8;Joy_None
+room_move_down=Key_Numpad2;Joy_None
+show_bodies=Key_B;Joy_None
+show_physics_guides=Key_X;Joy_None

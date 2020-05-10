@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=..\..\TLSA.Graphics\Graphics.vbp
+Project=..\Physics.vbp
+StartupProject=PhysicTest.vbp

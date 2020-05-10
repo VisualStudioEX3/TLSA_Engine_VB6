@@ -1,0 +1,16 @@
+VBGROUP 5.0
+StartupProject=Engine\TLSA.vbp
+Project=Framework\TLSA.Core\Core.vbp
+Project=Framework\TLSA.Audio\Audio.vbp
+Project=Framework\TLSA.Graphics\Graphics.vbp
+Project=Framework\TLSA.GameInput\GameInput.vbp
+Project=Framework\TLSA.Physics\Physics.vbp
+Project=SDK\FontDefEditor\FontDefEditor.vbp
+Project=SDK\InputProfileEditor\InputProfileEditor.vbp
+Project=SDK\TileEditor\TileEditor.vbp
+Project=Test\The Blueman\TheBlueman.vbp
+Project=Test\Old_PhysicsTest\PhysicTest.vbp
+Project=Test\GameInput Test1\GameInput_Test1.vbp
+Project=Test\Audio Test1\Audio_Test1.vbp
+Project=Test\Audio Test2 - PhysicAudio Test\Audio_Test2_PhysicAudio.vbp
+

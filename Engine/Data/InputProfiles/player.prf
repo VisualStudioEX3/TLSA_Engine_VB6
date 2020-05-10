@@ -1,0 +1,10 @@
+// TLSA.Gameinput Profile
+username=Player
+// Action=KeybMouse;Joy
+left=Key_A;Joy_Left
+right=Key_D;Joy_Right
+up=Key_W;Joy_Up
+down=Key_S;Joy_Down
+reload=Key_R;Joy_Button8
+jump=Key_Space;Joy_Button3
+shoot=Mouse_Left;Joy_Button6
